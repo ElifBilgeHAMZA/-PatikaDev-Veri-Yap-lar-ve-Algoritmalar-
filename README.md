@@ -1,2 +1,4 @@
-# -PatikaDev-Veri-Yap-lar-ve-Algoritmalar-
+# -PatikaDev-Veri-Yapilari-ve-Algoritmalar-
  Insertion Sort Projesi
+ 1. Soru 
+ 
