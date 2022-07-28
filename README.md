@@ -1,6 +1,5 @@
 # -PatikaDev-Veri-Yapilari-ve-Algoritmalar- 
  Insertion Sort Projesi
- www.patika.dev
  1. Soru 
  [22,27,16,2,18,6] -> Insertion Sort
  Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
