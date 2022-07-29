@@ -34,7 +34,9 @@
  
  [2,16,22,27,18,6]
  
-  Big O Notation Gösterimi
+*2. Soru* 
+
+Big O Notation Gösterimi
 
 Worst Case: O(n²) = n+(n-1)+(n-2)....+1
 
