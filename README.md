@@ -10,7 +10,7 @@
  
  Dizinin ikinci elemanı başlangıç elemanıdır. 22, 27 den küçüktür bu sebeple değişme olmaz.
  
- [22,27,16,2,18,6] - (n)
+ [22,27,16,2,18,6]
  
  Şu aşamada  27, 16 dan küçük olduğundan yer değiştirecekler
  
@@ -22,7 +22,7 @@
  
  İkinci Aşama
  
- Bu adımda sıra dördüncü eleman olan 2'ye bakma zamanıdır. Hepsinden daha küçük olduğu için tekrar tekrar yer değiştirir en sola yerleşir.
+ Bu adımda sıra dördüncü eleman olan 2'ye bakıyoruz. Hepsinden daha küçük olduğu için tekrar tekrar yer değiştirir en sola yerleşir.
  
  [16,22,27,2,18,6]
  
@@ -34,7 +34,7 @@
  
 * II. Soru
 
-Big O Notation Gösterimi
+Big O Notation Gösterimini yazınız.
 
 Worst Case: O(n²) = n+(n-1)+(n-2)....+1
 
