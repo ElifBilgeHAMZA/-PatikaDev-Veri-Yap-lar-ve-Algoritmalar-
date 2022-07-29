@@ -44,11 +44,15 @@ Average Case: O(n²)
 
 Best Case: O(n)
 
-Time Complexity
+* 3. Soru
+
+Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
 Worst Case: [27,22,18,16,6,2]
 
 Best Case: [2,6,16,18,22,27]
+
+
 
  
   
