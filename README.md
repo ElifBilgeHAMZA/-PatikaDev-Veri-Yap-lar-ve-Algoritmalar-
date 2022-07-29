@@ -46,11 +46,19 @@ Best Case: O(n)
 
 * 3. Soru
 
-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+Time Complexity: Average case: Aradığımız sayının ortada olması, Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
 Worst Case: [27,22,18,16,6,2]
 
 Best Case: [2,6,16,18,22,27]
+
+* 4. Soru
+
+Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+
+Önce küçükten büyüğe sıralanır [2,6,16,18,22,27]
+18 sayısı bu dizinin ortasında average case i olur
+
 
 
 
