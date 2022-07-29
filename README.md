@@ -2,7 +2,7 @@
 
  Insertion Sort Projesi
  
- 1. Soru 
+* 1. Soru 
  
  [22,27,16,2,18,6] -> Insertion Sort
  
@@ -34,7 +34,7 @@
  
  [2,16,22,27,18,6]
  
-*2. Soru* 
+* 2. Soru
 
 Big O Notation Gösterimi
 
