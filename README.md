@@ -1,6 +1,7 @@
 # -PatikaDev-Veri-Yapilari-ve-Algoritmalar- 
 
- Insertion Sort Projesi
+ Insertion Sort Projesi 
+ Merge Sort Projesi     https://github.com/ElifBilgeHAMZA/-PatikaDev-Veri-Yap-lar-ve-Algoritmalar-/blob/main/Merge%20Sort:
  
 * I. Soru 
  
