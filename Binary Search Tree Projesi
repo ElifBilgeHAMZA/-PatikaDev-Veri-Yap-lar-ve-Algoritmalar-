@@ -11,3 +11,13 @@ ilk olarak 7 sayısıyla başlıyoruz ve en üstte konumlandırıyoruz
                                /
                              5  , 7den küçük olduğu için sol altına yerleşiyor
                              
+Daha sonraki aşamalarda da sıradaki sayı bir önceki dizilimdeki sayıdan küçükse sola büyükse sağa yerleşiyor ve böyle devam ediyor
+
+                              7
+                              
+                            /
+                          5
+                         /
+                         
+                         
+                      
